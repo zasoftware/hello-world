@@ -1,0 +1,11 @@
+# ignore All .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore ALL the .bak files
+*.bak
+
+# ignore the gh-pages folder.
+zasoftware.github.io/
